@@ -1,0 +1,53 @@
+_repo: Paita_73202
+_version: 0.0.1
+alternative_title: La chemise. Finnish
+contributor:
+  translator:
+    agent_name: Onerva, L.
+    aliases:
+    - Lehtinen, Hilja Onerva
+    - Lehtinen, Onerva
+    - Madetoja, Hilja Onerva
+    - Streng, Hilja Onerva
+    birthdate: 1882
+    deathdate: 1972
+    gutenberg_agent_id: '2741'
+    url: http://www.gutenberg.org/2009/agents/2741
+    wikipedia:
+    - https://en.wikipedia.org/wiki/L._Onerva
+    - https://fi.wikipedia.org/wiki/L._Onerva
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Anatole
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anatole_France
+    - https://fr.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_issued: '2024-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73202'
+language: fi
+pgterms:marc905: 20170709095335france
+pgterms:marc906: '1915'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: $aHämeenlinnassa :$bArvi A. Karisto, $c1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Allegories'
+- !lcsh 'Happiness -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Paita
+url: http://www.gutenberg.org/ebooks/73202
