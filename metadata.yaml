@@ -16,6 +16,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/L._Onerva
     - https://fi.wikipedia.org/wiki/L._Onerva
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: France, Anatole
@@ -31,6 +34,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anatole_France
     - https://fr.wikipedia.org/wiki/Anatole_France
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73202#Paita
 gutenberg_issued: '2024-03-19'
 gutenberg_type: Text
 identifiers:
